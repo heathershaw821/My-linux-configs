@@ -73,9 +73,9 @@ function gitintegrate() {
     D=$(echo -n $RED'-'$RST | escape_sed)
     F=$(echo -n $LYELLOW'*'$RST | escape_sed)
     STAT=$(git diff --shortstat $BRANCH\
-      | sed "s/\bfile[s]* changed\b/$F/g"\
-      | sed "s/\binsertion[s]*\b//g"\
-      | sed "s/\bdeletion[s]*\b//g"\
+      | sed -E "s/\bfile(s)? changed\b/$F/g"\
+      | sed -E "s/\binsertion(s)?\b//g"\
+      | sed -E "s/\bdeletion(s)?\b//g"\
       | sed "s/-/$D/g"\
       | sed "s/\\+/$A/g"\
       | tr -d ' ()\n'

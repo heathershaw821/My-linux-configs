@@ -93,9 +93,7 @@ enabled_prompt_plugins=gitintegrate
 function plugins() {
   for plugin in $enabled_prompt_plugins; do
     OUTPUT=$($plugin)
-    if [ -v $OUTPUT ]; then
-      continue
-    else
+    if ! [ -v $OUTPUT ]; then
       echo -n '\n '$OUTPUT
     fi
   done

@@ -106,7 +106,7 @@ function plugins() {
 if [ "$EUID" -eq 0 ]; then
   UIDC="$RED"
 else
-  UIDC="$RST$DEFAULT"
+  UIDC="$RST"
 fi
 
 function set_prompt() {

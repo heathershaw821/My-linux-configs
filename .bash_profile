@@ -108,7 +108,7 @@ else
 fi
 
 function set_prompt() {
-  PS1=$(box '\#')$(box '\u@\h:\W')$(plugins)"$UIDC ► "
+  PS1=$(box '\#')$(box '\u@\h:\w')$(plugins)"$UIDC ► "
 }
 
 PROMPT_COMMAND=set_prompt

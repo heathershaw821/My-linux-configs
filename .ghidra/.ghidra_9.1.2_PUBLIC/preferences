@@ -1,0 +1,27 @@
+#User Preferences
+#Thu Jul 23 00:25:21 MDT 2020
+G_FILE_CHOOSER.VIEW_STYLE.Select\ a\ Ghidra\ Project\ Directory=SimpleView
+LastNewProjectDirectory=/home/ayool/Desktop/cpp-exploitation
+TIP_INDEX=5
+G_FILE_CHOOSER.HEIGHT.Select\ a\ Ghidra\ Project\ Directory=600
+OPEN_PROGRAM_DIALOG.SHOW_HISTORY=false
+Importer.LastFile=/home/ayool/Desktop/cpp-exploitation/bin/canary
+G_FILE_CHOOSER.VIEW_STYLE.Open\ a\ Ghidra\ Project=SimpleView
+G_FILE_CHOOSER.VIEW_STYLE.Select\ File\ to\ Import=SimpleView
+SHOW_TIPS=true
+ViewedProjects=
+RecentProjects=/home/ayool/Desktop/cpp-exploitation/canary.gpr
+OPEN_PROGRAM_DIALOG.WIDTH_NO_HISTORY=374
+ProjectDirectory=/home/ayool/Desktop/cpp-exploitation
+G_FILE_CHOOSER.WIDTH.Select\ a\ Ghidra\ Project\ Directory=800
+LastOpenedProject=/home/ayool/Desktop/cpp-exploitation/canary.gpr
+USER_AGREEMENT=ACCEPT
+OPEN_PROGRAM_DIALOG.HEIGHT=580
+SHOW.HELP.NAVIGATION.AID=true
+G_FILE_CHOOSER.HEIGHT.Select\ File\ to\ Import=600
+G_FILE_CHOOSER.HEIGHT.Open\ a\ Ghidra\ Project=600
+RECENT_0=/home/ayool/Desktop/cpp-exploitation/bin
+GhidraShowWhatsNew=false
+G_FILE_CHOOSER.WIDTH.Open\ a\ Ghidra\ Project=800
+RECENT_1=/home/ayool/Desktop/cpp-exploitation
+G_FILE_CHOOSER.WIDTH.Select\ File\ to\ Import=800

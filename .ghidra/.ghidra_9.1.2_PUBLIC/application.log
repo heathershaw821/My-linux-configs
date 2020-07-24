@@ -1,0 +1,179 @@
+2020-07-22 23:03:38 INFO  (LoggingInitialization) Using log config file: jar:file:/home/ayool/Desktop/ghidra_9.1.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2020-07-22 23:03:38 INFO  (LoggingInitialization) Using log file: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/application.log  
+2020-07-22 23:03:38 INFO  (Preferences) Loading user preferences: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/preferences  
+2020-07-22 23:03:52 INFO  (ClassSearcher) Class search complete (1017 ms)  
+2020-07-22 23:03:52 INFO  (SSLContextInitializer) Initializing SSL Context  
+2020-07-22 23:03:53 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2020-07-22 23:03:53 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2020-07-22 23:03:53 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2020-07-22 23:03:53 INFO  (GhidraRun) User ayool started Ghidra.  
+2020-07-22 23:03:53 DEBUG (DefaultProjectManager) No tools found; Installing default tools  
+2020-07-22 23:03:53 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2020-07-22 23:06:13 INFO  (LoggingInitialization) Using log config file: jar:file:/home/ayool/Desktop/ghidra_9.1.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2020-07-22 23:06:13 INFO  (LoggingInitialization) Using log file: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/application.log  
+2020-07-22 23:06:13 INFO  (Preferences) Loading user preferences: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/preferences  
+2020-07-22 23:06:14 INFO  (ClassSearcher) Class search complete (957 ms)  
+2020-07-22 23:06:14 INFO  (SSLContextInitializer) Initializing SSL Context  
+2020-07-22 23:06:15 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2020-07-22 23:06:15 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2020-07-22 23:06:15 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2020-07-22 23:06:15 INFO  (GhidraRun) User ayool started Ghidra.  
+2020-07-22 23:06:15 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2020-07-22 23:16:31 INFO  (LoggingInitialization) Using log config file: jar:file:/opt/ghidra_9.1.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2020-07-22 23:16:31 INFO  (LoggingInitialization) Using log file: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/application.log  
+2020-07-22 23:16:31 INFO  (Preferences) Loading user preferences: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/preferences  
+2020-07-22 23:16:33 INFO  (ClassSearcher) Class search complete (958 ms)  
+2020-07-22 23:16:33 INFO  (SSLContextInitializer) Initializing SSL Context  
+2020-07-22 23:16:33 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2020-07-22 23:16:33 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2020-07-22 23:16:33 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2020-07-22 23:16:33 INFO  (GhidraRun) User ayool started Ghidra.  
+2020-07-22 23:16:34 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2020-07-23 00:08:22 INFO  (LoggingInitialization) Using log config file: jar:file:/opt/ghidra_9.1.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2020-07-23 00:08:22 INFO  (LoggingInitialization) Using log file: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/application.log  
+2020-07-23 00:08:22 INFO  (Preferences) Loading user preferences: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/preferences  
+2020-07-23 00:08:24 INFO  (ClassSearcher) Class search complete (997 ms)  
+2020-07-23 00:08:24 INFO  (SSLContextInitializer) Initializing SSL Context  
+2020-07-23 00:08:24 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2020-07-23 00:08:24 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2020-07-23 00:08:24 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2020-07-23 00:08:24 INFO  (GhidraRun) User ayool started Ghidra.  
+2020-07-23 00:08:24 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2020-07-23 00:09:24 INFO  (DefaultProject) Creating project: /home/ayool/Desktop/cpp-exploitation/canary  
+2020-07-23 00:09:34 WARN  (PluginPackage) Can't find plugin package for Renoir Graph! Creating stub...  
+2020-07-23 00:09:54 INFO  (FileCache) Starting cache cleanup: /tmp/ayool-Ghidra/fscache  
+2020-07-23 00:09:54 INFO  (FileCache) Finished cache cleanup, estimated storage used: 0  
+2020-07-23 00:10:38 INFO  (LoggingInitialization) Using log config file: jar:file:/opt/ghidra_9.1.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2020-07-23 00:10:38 INFO  (LoggingInitialization) Using log file: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/application.log  
+2020-07-23 00:10:38 INFO  (Preferences) Loading user preferences: /home/ayool/.ghidra/.ghidra_9.1.2_PUBLIC/preferences  
+2020-07-23 00:10:40 INFO  (ClassSearcher) Class search complete (988 ms)  
+2020-07-23 00:10:40 INFO  (SSLContextInitializer) Initializing SSL Context  
+2020-07-23 00:10:40 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2020-07-23 00:10:40 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2020-07-23 00:10:40 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2020-07-23 00:10:40 INFO  (GhidraRun) User ayool started Ghidra.  
+2020-07-23 00:10:41 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2020-07-23 00:10:41 INFO  (DefaultProject) Opening project: /home/ayool/Desktop/cpp-exploitation/canary.gpr  
+2020-07-23 00:11:14 DEBUG (ElfHeader$$EnhancerByCGLIB$$395b1de4) Elf symbol table section .dynsym linked to string table section .dynstr  
+2020-07-23 00:11:14 DEBUG (ElfHeader$$EnhancerByCGLIB$$395b1de4) Elf symbol table section .symtab linked to string table section .strtab  
+2020-07-23 00:11:14 DEBUG (ElfHeader$$EnhancerByCGLIB$$395b1de4) Elf relocation table section .rela.dyn linked to symbol table section .dynsym affecting PT_LOAD  
+2020-07-23 00:11:14 DEBUG (ElfHeader$$EnhancerByCGLIB$$395b1de4) Elf relocation table section .rela.plt linked to symbol table section .dynsym affecting .got  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .data at 00302000 from file offset 8192  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .got at 00301f68 from file offset 8040  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .dynamic at 00301d68 from file offset 7528  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .fini_array at 00301d60 from file offset 7520  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .init_array at 00301d50 from file offset 7504  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .eh_frame at 001010a0 from file offset 4256  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .eh_frame_hdr at 0010104c from file offset 4172  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .rodata at 00101010 from file offset 4112  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .fini at 00101004 from file offset 4100  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .text at 001009d0 from file offset 2512  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .plt.got at 001009c0 from file offset 2496  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .plt at 00100910 from file offset 2320  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .init at 001008f8 from file offset 2296  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .rela.plt at 00100808 from file offset 2056  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .rela.dyn at 00100700 from file offset 1792  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .gnu.version_r at 001006a0 from file offset 1696  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .gnu.version at 0010067c from file offset 1660  
+2020-07-23 00:11:14 DEBUG (ElfProgramBuilder) Loading block .dynstr at 00100470 from file offset 1136  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block .dynsym at 001002c0 from file offset 704  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block .gnu.hash at 00100298 from file offset 664  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block .note.gnu.build-id at 00100274 from file offset 628  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block .note.ABI-tag at 00100254 from file offset 596  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block .interp at 00100238 from file offset 568  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block segment_2.1 at 00100000 from file offset 0  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block segment_2.6 at 001002bc from file offset 700  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block segment_2.9 at 0010067b from file offset 1659  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block segment_2.15 at 0010090f from file offset 2319  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block segment_2.18 at 001009c8 from file offset 2504  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block segment_2.20 at 00101002 from file offset 4098  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block segment_2.22 at 0010100d from file offset 4109  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block segment_2.24 at 0010104b from file offset 4171  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block .shstrtab at OTHER:00000000 from file offset 11306  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block .strtab at OTHER:00000000 from file offset 10176  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block .symtab at OTHER:00000000 from file offset 8256  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block .comment at OTHER:00000000 from file offset 8208  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Removing discardable alignment/filler segment at 001002bc  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Removing discardable alignment/filler segment at 0010067b  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Removing discardable alignment/filler segment at 0010090f  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Removing discardable alignment/filler segment at 001009c8  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Removing discardable alignment/filler segment at 00101002  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Removing discardable alignment/filler segment at 0010100d  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Removing discardable alignment/filler segment at 0010104b  
+2020-07-23 00:11:15 DEBUG (ElfProgramBuilder) Loading block _elfSectionHeaders at OTHER:00000000 from file offset 11560  
+2020-07-23 00:12:23 DEBUG (ToolTaskManager) Exec Task Auto Analysis  
+2020-07-23 00:12:24 DEBUG (ElfHeader$$EnhancerByCGLIB$$395b1de4) Elf symbol table section .dynsym linked to string table section .dynstr  
+2020-07-23 00:12:24 DEBUG (ElfHeader$$EnhancerByCGLIB$$395b1de4) Elf symbol table section .symtab linked to string table section .strtab  
+2020-07-23 00:12:24 DEBUG (ElfHeader$$EnhancerByCGLIB$$395b1de4) Elf relocation table section .rela.dyn linked to symbol table section .dynsym affecting PT_LOAD  
+2020-07-23 00:12:24 DEBUG (ElfHeader$$EnhancerByCGLIB$$395b1de4) Elf relocation table section .rela.plt linked to symbol table section .dynsym affecting .got  
+2020-07-23 00:12:24 DEBUG (CreateFunctionCmd) Creating external function symbol: _ITM_deregisterTMCloneTable  
+2020-07-23 00:12:24 DEBUG (CreateFunctionCmd) Creating external function symbol: _ITM_registerTMCloneTable  
+2020-07-23 00:12:24 DEBUG (CreateFunctionCmd) Creating external function symbol: __gmon_start__  
+2020-07-23 00:12:24 INFO  (PackedDatabaseCache) Packed database cache: /tmp/ayool-Ghidra/packed-db-cache  
+2020-07-23 00:12:24 DEBUG (PackedDatabaseCache) Caching packed database: /opt/ghidra_9.1.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt  
+2020-07-23 00:12:24 DEBUG (PackedDatabase) Unpacking database /opt/ghidra_9.1.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt -> /tmp/ayool-Ghidra/packed-db-cache/pdb3A154FD2/db.1.gbf  
+2020-07-23 00:12:24 DEBUG (PackedDatabaseCache) Cache update completed: /opt/ghidra_9.1.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt  
+2020-07-23 00:12:26 INFO  (AutoAnalysisManager) -----------------------------------------------------
+    ASCII Strings                              0.696 secs
+    Apply Data Archives                        0.557 secs
+    Call Convention Identification             0.163 secs
+    Call-Fixup Installer                       0.004 secs
+    Create Address Tables                      0.014 secs
+    Create Function                            0.009 secs
+    DWARF                                      0.018 secs
+    Data Reference                             0.008 secs
+    Decompiler Switch Analysis                 0.250 secs
+    Demangler                                  0.056 secs
+    Disassemble Entry Points                   0.156 secs
+    ELF Scalar Operand References              0.012 secs
+    Embedded Media                             0.015 secs
+    External Entry References                  0.001 secs
+    Function ID                                0.045 secs
+    Function Start Search                      0.026 secs
+    Function Start Search After Code           0.002 secs
+    Function Start Search After Data           0.001 secs
+    GCC Exception Handlers                     0.059 secs
+    Non-Returning Functions - Discovered       0.020 secs
+    Non-Returning Functions - Known            0.003 secs
+    Reference                                  0.023 secs
+    Shared Return Calls                        0.005 secs
+    Stack                                      0.085 secs
+    Subroutine References                      0.009 secs
+    Subroutine References - One Time           0.000 secs
+    x86 Constant Reference Analyzer            0.215 secs
+-----------------------------------------------------
+     Total Time   2 secs
+-----------------------------------------------------
+  
+2020-07-23 00:12:26 DEBUG (ToolTaskManager)   task finish (2.525 secs)  
+2020-07-23 00:12:26 DEBUG (ToolTaskManager)     Queue - Auto Analysis  
+2020-07-23 00:12:26 DEBUG (ToolTaskManager)    (0.001 secs)  
+2020-07-23 00:12:26 DEBUG (ToolTaskManager)   task complete (2.528 secs)  
+2020-07-23 00:14:30 ERROR (ToolOptions) Registered an option without a description: References Highlight.Color java.lang.Throwable
+	at ghidra.framework.options.AbstractOptions.registerOption(AbstractOptions.java:143)
+	at ghidra.framework.options.AbstractOptions.registerOption(AbstractOptions.java:126)
+	at ghidra.framework.options.AbstractOptions.registerOption(AbstractOptions.java:119)
+	at ghidra.app.plugin.core.navigation.locationreferences.LocationReferencesHighlighter.<init>(LocationReferencesHighlighter.java:74)
+	at ghidra.app.plugin.core.navigation.locationreferences.LocationReferencesProvider.setLocationDescriptor(LocationReferencesProvider.java:167)
+	at ghidra.app.plugin.core.navigation.locationreferences.LocationReferencesProvider.<init>(LocationReferencesProvider.java:122)
+	at ghidra.app.plugin.core.navigation.locationreferences.LocationReferencesPlugin.displayProviderForLocation(LocationReferencesPlugin.java:132)
+	at ghidra.app.plugin.core.navigation.locationreferences.LocationReferencesPlugin.showReferencesToLocation(LocationReferencesPlugin.java:302)
+	at ghidra.app.plugin.core.symboltree.actions.ShowSymbolReferencesAction.actionPerformed(ShowSymbolReferencesAction.java:139)
+	at ghidra.app.plugin.core.symboltree.actions.SymbolTreeContextAction.actionPerformed(SymbolTreeContextAction.java:49)
+	at docking.PopupMenuHandler$1.run(PopupMenuHandler.java:61)
+ 
+2020-07-23 00:16:15 INFO  (RecoveryMgr) Thu Jul 23 00:16:15 MDT 2020 Recovery snapshot created: /home/ayool/Desktop/cpp-exploitation/canary.rep/idata/00/~00000000.db/snapshotA.grf  
+2020-07-23 00:17:56 DEBUG (ToolTaskManager) Exec Task Create Function Stack Variables  
+2020-07-23 00:17:56 DEBUG (ToolTaskManager)   task finish (0.004 secs)  
+2020-07-23 00:17:56 DEBUG (ToolTaskManager)   task complete (0.004 secs)  
+2020-07-23 00:18:12 WARN  (SleighLanguage) manual file /opt/ghidra_9.1.2_PUBLIC/Ghidra/Processors/x86/data/manuals/325383-sdm-vol-2abcd.pdf not found or is not properly case dependent.
+  >>  Intel 64 and IA-32 Architectures Software Developer's Manual Volume 2 (2A, 2B, 2C & 2D): Instruction Set Reference, A-Z, Oct 2019 (325383-071US)  
+2020-07-23 00:18:12 WARN  (SleighLanguage) manual file /opt/ghidra_9.1.2_PUBLIC/Ghidra/Processors/x86/data/manuals/325383-sdm-vol-2abcd.pdf not found or is not properly case dependent.
+  >>  AMD64 Architecture Programmer's Manual Volume 3: General-Purpose and System Instructions, Rev 3.28 September 2019 (24594)  
+2020-07-23 00:18:12 WARN  (SleighLanguage) manual file /opt/ghidra_9.1.2_PUBLIC/Ghidra/Processors/x86/data/manuals/325383-sdm-vol-2abcd.pdf not found or is not properly case dependent.
+  >>  AMD64 Architecture Programmer's Manual Volume 4: 128-Bit and 256-Bit Media Instructions, Rev 3.23 Feb 2019 (26568)  
+2020-07-23 00:18:12 WARN  (SleighLanguage) manual file /opt/ghidra_9.1.2_PUBLIC/Ghidra/Processors/x86/data/manuals/325383-sdm-vol-2abcd.pdf not found or is not properly case dependent.
+  >>  AMD64 Architecture Programmer's Manual Volume 5: 64-Bit Media and x87 Floating-Point Instructions, Rev 3.15 May 2018 (26569)  
+2020-07-23 00:18:12 WARN  (SleighLanguage) manual file /opt/ghidra_9.1.2_PUBLIC/Ghidra/Processors/x86/data/manuals/325383-sdm-vol-2abcd.pdf not found or is not properly case dependent.
+  >>  AMD64 Technology 128-Bit SSE5 Instruction Set, Rev 3.01 August 2007 (43479)  
+2020-07-23 00:18:12 INFO  (ShowInstructionInfoPlugin) Missing Processor Manual: Ghidra could not find the processor manual for x86/little/64/default Note: The Ghidra distribution does not include some of the processor manuals due to copyright issues. Most of these manuals are readily available on-line. To correct this issue, obtain the manual described below and place it at the specified location. Manual information: Intel 64 and IA-32 Architectures Software Developer's Manual Volume 2 (2A, 2B, 2C & 2D): Instruction Set Reference, A-Z, Oct 2019 (325383-071US) Location to place manual file: /opt/ghidra_9.1.2_PUBLIC/Ghidra/Processors/x86/data/manuals/325383-sdm-vol-2abcd.pdf Contact the Ghidra team if you have any problems.  

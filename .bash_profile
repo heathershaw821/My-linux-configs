@@ -64,8 +64,9 @@ function box() {
 }
 
 ### PLUGINS ####################################################################
-
 function gitintegrate() {
+  # if git is not installed, why break things?
+  if [ $(dpkg -s git &> /dev/null; echo $?) -eq 1 ]; then return 1; fi
   if [[ -d .git || -f .gitkeep ]]; then
     BRANCH=$(git branch | sed 's/current//g' | tr -d '*\n ')
     
@@ -86,6 +87,7 @@ function gitintegrate() {
       box $CYAN "$BRANCH:$STAT"
     fi
   fi
+  return 0
 }
 
 enabled_prompt_plugins=gitintegrate

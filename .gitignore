@@ -2,10 +2,12 @@
 .bashrc_backup
 .cache
 .cert
+cpp-exploitation
 .dbeaver4
 .dmrc
 Downloads
 .emacs
+.gdb_history
 .git
 .gitconfig
 .gitignore
@@ -24,6 +26,7 @@ Downloads
 Tech Resume - Google Docs.pdf
 .themes
 .vimrc
+.wget-hsts
 .Xauthority
 .xsession-errors
 .xsession-errors.old

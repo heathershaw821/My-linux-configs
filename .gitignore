@@ -8,6 +8,7 @@ Downloads
 .emacs
 .git
 .gitconfig
+.gitignore
 .gnupg
 .gtkrc-2.0
 .ICEauthority

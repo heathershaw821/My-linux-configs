@@ -9,6 +9,7 @@ dconf
 emaildefaults
 enchant
 geany
+.gitignore
 .gitkeep
 google-chrome
 gtk-2.0

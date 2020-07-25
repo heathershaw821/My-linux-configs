@@ -45,3 +45,10 @@ T 1595670651 19.:28@23madmouse19:.	from the matrix theme
 T 1595670662 19.:28@23madmouse19:.	and it is officially better than either one seperately
 T 1595670669 28.:19%24epoch28:.	I remember a link to a real story..
 T 1595670682 19.:28@23madmouse19:.	keeping this in my configs git
+T 1595670713 28.:19%24epoch28:.	https://yakshav.es/the-patron-saint-of-yakshaves/
+T 1595670713 28-21Notice28-	28-30except28/30#default28-21 hxxps://yakshav.es/the-patron-saint-of-yakshaves/ https://epo.k.vu/0797
+T 1595670748 19.:28@23madmouse19:.	time to make the worlds most awful .gitignore
+T 1595670760 19.:28@23madmouse19:.	patch to the rescue
+T 1595670772 19.:28@23madmouse19:.	well diff and then patch
+T 1595670779 19.:28@23madmouse19:.	because im a lazy piece of shit
+T 1595670781 28.:19%24epoch28:.	installing stunnel 5 on here

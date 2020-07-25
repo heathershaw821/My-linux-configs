@@ -1,0 +1,48 @@
+**** BEGIN LOGGING AT Sat Jul 25 02:43:33 2020
+
+Jul 25 02:43:33 *	Capabilities supported: userhost-in-names multi-prefix znc.in/server-time-iso znc.in/batch znc.in/self-message
+Jul 25 02:43:33 *	Capabilities requested: userhost-in-names multi-prefix znc.in/server-time-iso 
+Jul 25 02:43:33 *	Capabilities acknowledged: userhost-in-names multi-prefix znc.in/server-time-iso
+Jul 25 02:43:33 »»	Password required
+Jul 25 02:43:33 »»	*** You need to send your password. Configure your client to send a server password.
+Jul 25 02:43:33 »»	*** To connect now, you can use /quote PASS <username>:<password>, or /quote PASS <username>/<network>:<password> to connect to a specific network.
+**** BEGIN LOGGING AT Sat Jul 25 02:43:56 2020
+
+Jul 25 02:18:50 »»	Welcome to the Internet Relay Network madmouse!~ayool@c-76-23-22-99.hsd1.ut.comcast.net
+Jul 25 02:18:50 »»	Your host is batou.hacking.allowed.org, running version ngircd-25 (armv6l/unknown/linux-gnueabihf)
+Jul 25 02:18:50 »»	This server has been started Thu Jul 09 2020 at 17:32:12 (UTC)
+Jul 25 02:18:50 »»	batou.hacking.allowed.org ngircd-25 abBcCFiIoqrRswx abehiIklmMnoOPqQrRstvVz
+**** ENDING LOGGING AT Sat Jul 25 02:44:00 2020
+
+**** BEGIN LOGGING AT Sat Jul 25 02:49:21 2020
+
+Jul 25 02:18:50 »»	Welcome to the Internet Relay Network madmouse!~ayool@c-76-23-22-99.hsd1.ut.comcast.net
+Jul 25 02:18:50 »»	Your host is batou.hacking.allowed.org, running version ngircd-25 (armv6l/unknown/linux-gnueabihf)
+Jul 25 02:18:50 »»	This server has been started Thu Jul 09 2020 at 17:32:12 (UTC)
+Jul 25 02:18:50 »»	batou.hacking.allowed.org ngircd-25 abBcCFiIoqrRswx abehiIklmMnoOPqQrRstvVz
+Jul 25 02:18:50 »»	NETWORK=irc.hacking.allowed.org :is my network name
+Jul 25 02:18:50 »»	RFC2812 IRCD=ngIRCd CHARSET=UTF-8 CASEMAPPING=ascii PREFIX=(qaohv)~&@%+ CHANTYPES=#&+ CHANMODES=beI,k,l,imMnOPQRstVz CHANLIMIT=#&+:0 :are supported on this server
+Jul 25 02:18:50 »»	CHANNELLEN=50 NICKLEN=9 TOPICLEN=490 AWAYLEN=127 KICKLEN=400 MODES=5 MAXLIST=beI:50 EXCEPTS=e INVEX=I PENALTY :are supported on this server
+Jul 25 02:18:50 »»	There are 15 users and 0 services on 1 servers
+Jul 25 02:18:50 »»	3 :operator(s) online
+Jul 25 02:18:50 »»	20 :channels formed
+Jul 25 02:18:50 »»	I have 15 users, 0 services and 0 servers
+Jul 25 02:18:50 »»	15 17 :Current local users: 15, Max: 17
+Jul 25 02:18:50 »»	15 17 :Current global users: 15, Max: 17
+Jul 25 02:18:50 »»	Highest connection count: 17 (153 connections received)
+Jul 25 02:18:50 »»	- batou.hacking.allowed.org message of the day
+Jul 25 02:18:50 »»	- I thought what I'd do was, I'd pretend I was one of those deaf-mutes.
+Jul 25 02:18:50 »»	- 
+Jul 25 02:18:50 »»	-         _
+Jul 25 02:18:50 »»	-      __| |___
+Jul 25 02:18:50 »»	-    .' _| |__ '.
+Jul 25 02:18:50 »»	-  .' .- |    -. '.
+Jul 25 02:18:50 »»	- .' |   |( |\  | '.
+Jul 25 02:18:50 »»	- | <    |  | |  | |
+Jul 25 02:18:50 »»	- '. |   |( |/  | .'
+Jul 25 02:18:50 »»	-  '. '-_|____-' .'
+Jul 25 02:18:50 »»	-    '.________.'
+Jul 25 02:18:50 »»	- 
+Jul 25 02:18:50 »»	-                   Or should I?
+Jul 25 02:18:50 »»	- Connected using Cipher ECDHE-RSA-AES128-GCM-SHA256 TLSv1.2 Kx=ECDH     Au=RSA  Enc=AESGCM(128) Mac=AEAD
+Jul 25 02:18:50 »»	End of MOTD command

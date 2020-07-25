@@ -1,0 +1,28 @@
+**** BEGIN LOGGING AT Sat Jul 25 02:49:20 2020
+
+Jul 25 02:49:20 »»	Connecting to philes.arkunico (10.0.1.205) port 8080...
+Jul 25 02:49:20 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	* Certification info:
+Jul 25 02:49:20 *	  Subject:
+Jul 25 02:49:20 *	    OU=znc
+Jul 25 02:49:20 *	    CN=host.unknown
+Jul 25 02:49:20 *	    emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	  Issuer:
+Jul 25 02:49:20 *	    OU=znc
+Jul 25 02:49:20 *	    CN=host.unknown
+Jul 25 02:49:20 *	    emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 25 02:49:20 *	  Sign algorithm sha256WithRSAEncryption
+Jul 25 02:49:20 *	  Valid since Jul 25 08:45:20 2020 GM to Jul 23 08:45:20 2030 GM
+Jul 25 02:49:20 *	* Cipher info:
+Jul 25 02:49:20 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 25 02:49:20 *	* Verify E: self signed certificate.? (18) -- Ignored
+Jul 25 02:49:20 »»	Connected. Now logging in...
+Jul 25 02:49:20 *	Capabilities supported: userhost-in-names multi-prefix znc.in/server-time-iso znc.in/batch znc.in/self-message
+Jul 25 02:49:20 *	Capabilities requested: userhost-in-names multi-prefix znc.in/server-time-iso 
+Jul 25 02:49:21 *	Capabilities acknowledged: userhost-in-names multi-prefix znc.in/server-time-iso
+**** ENDING LOGGING AT Sat Jul 25 02:49:21 2020
+

@@ -1,0 +1,152 @@
+**** BEGIN LOGGING AT Sat Jul 25 02:20:03 2020
+
+Jul 25 02:20:03 Checksum plugin loaded
+Jul 25 02:20:03 FiSHLiM plugin loaded
+Jul 25 02:20:03 Perl interface loaded
+Jul 25 02:20:03 Python interface loaded
+Jul 25 02:20:03 Sysinfo plugin loaded
+**** BEGIN LOGGING AT Sat Jul 25 02:33:25 2020
+
+Jul 25 02:33:25 Checksum plugin loaded
+Jul 25 02:33:25 FiSHLiM plugin loaded
+Jul 25 02:33:25 Perl interface loaded
+Jul 25 02:33:25 Python interface loaded
+Jul 25 02:33:25 Sysinfo plugin loaded
+Jul 25 02:33:25 *	Looking up philes.arkunico
+Jul 25 02:33:25 *	Connecting to philes.arkunico (10.0.1.205:8080)
+Jul 25 02:33:25 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:33:25 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:33:25 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:33:25 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:33:25 *	* Certification info:
+Jul 25 02:33:25 *	  Subject:
+Jul 25 02:33:25 *	    OU=znc
+Jul 25 02:33:25 *	    CN=host.unknown
+Jul 25 02:33:25 *	    emailAddress=znc@host.unknown
+Jul 25 02:33:25 *	  Issuer:
+Jul 25 02:33:25 *	    OU=znc
+Jul 25 02:33:25 *	    CN=host.unknown
+Jul 25 02:33:25 *	    emailAddress=znc@host.unknown
+Jul 25 02:33:25 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 25 02:33:25 *	  Sign algorithm sha256WithRSAEncryption
+Jul 25 02:33:25 *	  Valid since Jul 25 08:45:20 2020 GM to Jul 23 08:45:20 2030 GM
+Jul 25 02:33:25 *	* Cipher info:
+Jul 25 02:33:25 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 25 02:33:25 *	* Verify E: self signed certificate.? (18) -- Ignored
+Jul 25 02:33:25 *	Connected. Now logging in.
+Jul 25 02:33:26 *	Capabilities supported: userhost-in-names multi-prefix znc.in/server-time-iso znc.in/batch znc.in/self-message
+Jul 25 02:33:26 *	Capabilities requested: userhost-in-names multi-prefix znc.in/server-time-iso 
+Jul 25 02:33:26 *	Capabilities acknowledged: userhost-in-names multi-prefix znc.in/server-time-iso
+Jul 25 02:33:26 -*status-	You have several networks configured, but no network was specified for the connection.
+Jul 25 02:33:26 -*status-	Selecting network [darkscience]. To see list of all configured networks, use /znc ListNetworks
+Jul 25 02:33:26 -*status-	If you want to choose another network, use /znc JumpNetwork <network>, or connect to ZNC with username ayool/<network> (instead of just ayool)
+**** ENDING LOGGING AT Sat Jul 25 02:33:26 2020
+
+**** BEGIN LOGGING AT Sat Jul 25 02:34:29 2020
+
+Jul 25 02:34:29 Checksum plugin loaded
+Jul 25 02:34:29 FiSHLiM plugin loaded
+Jul 25 02:34:29 Perl interface loaded
+Jul 25 02:34:29 Python interface loaded
+Jul 25 02:34:29 Sysinfo plugin loaded
+Jul 25 02:34:29 »»	Looking up philes.arkunico
+Jul 25 02:34:29 »»	Connecting to philes.arkunico (10.0.1.205) port 8080...
+Jul 25 02:34:30 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:34:30 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:34:30 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:34:30 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:34:30 *	* Certification info:
+Jul 25 02:34:30 *	  Subject:
+Jul 25 02:34:30 *	    OU=znc
+Jul 25 02:34:30 *	    CN=host.unknown
+Jul 25 02:34:30 *	    emailAddress=znc@host.unknown
+Jul 25 02:34:30 *	  Issuer:
+Jul 25 02:34:30 *	    OU=znc
+Jul 25 02:34:30 *	    CN=host.unknown
+Jul 25 02:34:30 *	    emailAddress=znc@host.unknown
+Jul 25 02:34:30 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 25 02:34:30 *	  Sign algorithm sha256WithRSAEncryption
+Jul 25 02:34:30 *	  Valid since Jul 25 08:45:20 2020 GM to Jul 23 08:45:20 2030 GM
+Jul 25 02:34:30 *	* Cipher info:
+Jul 25 02:34:30 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 25 02:34:30 *	* Verify E: self signed certificate.? (18) -- Ignored
+Jul 25 02:34:30 »»	Connected. Now logging in...
+Jul 25 02:34:30 *	Capabilities supported: userhost-in-names multi-prefix znc.in/server-time-iso znc.in/batch znc.in/self-message
+Jul 25 02:34:30 *	Capabilities requested: userhost-in-names multi-prefix znc.in/server-time-iso 
+Jul 25 02:34:30 *	Capabilities acknowledged: userhost-in-names multi-prefix znc.in/server-time-iso
+Jul 25 02:34:30 -Notice-	{from *status} You have several networks configured, but no network was specified for the connection.
+Jul 25 02:34:30 -Notice-	{from *status} Selecting network [darkscience]. To see list of all configured networks, use /znc ListNetworks
+Jul 25 02:34:30 -Notice-	{from *status} If you want to choose another network, use /znc JumpNetwork <network>, or connect to ZNC with username ayool/<network> (instead of just ayool)
+**** ENDING LOGGING AT Sat Jul 25 02:34:30 2020
+
+**** BEGIN LOGGING AT Sat Jul 25 02:39:47 2020
+
+Jul 25 02:39:47 Checksum plugin loaded
+Jul 25 02:39:47 FiSHLiM plugin loaded
+Jul 25 02:39:47 Perl interface loaded
+Jul 25 02:39:47 Python interface loaded
+Jul 25 02:39:47 Sysinfo plugin loaded
+Jul 25 02:39:47 »»	Looking up philes.arkunico
+Jul 25 02:39:47 »»	Connecting to philes.arkunico (10.0.1.205) port 8080...
+Jul 25 02:39:48 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:39:48 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:39:48 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:39:48 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:39:48 *	* Certification info:
+Jul 25 02:39:48 *	  Subject:
+Jul 25 02:39:48 *	    OU=znc
+Jul 25 02:39:48 *	    CN=host.unknown
+Jul 25 02:39:48 *	    emailAddress=znc@host.unknown
+Jul 25 02:39:48 *	  Issuer:
+Jul 25 02:39:48 *	    OU=znc
+Jul 25 02:39:48 *	    CN=host.unknown
+Jul 25 02:39:48 *	    emailAddress=znc@host.unknown
+Jul 25 02:39:48 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 25 02:39:48 *	  Sign algorithm sha256WithRSAEncryption
+Jul 25 02:39:48 *	  Valid since Jul 25 08:45:20 2020 GM to Jul 23 08:45:20 2030 GM
+Jul 25 02:39:48 *	* Cipher info:
+Jul 25 02:39:48 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 25 02:39:48 *	* Verify E: self signed certificate.? (18) -- Ignored
+Jul 25 02:39:48 »»	Connected. Now logging in...
+Jul 25 02:39:48 *	Capabilities supported: userhost-in-names multi-prefix znc.in/server-time-iso znc.in/batch znc.in/self-message
+Jul 25 02:39:48 *	Capabilities requested: userhost-in-names multi-prefix znc.in/server-time-iso 
+Jul 25 02:39:48 *	Capabilities acknowledged: userhost-in-names multi-prefix znc.in/server-time-iso
+Jul 25 02:39:48 -Notice-	{from *status} You have several networks configured, but no network was specified for the connection.
+Jul 25 02:39:48 -Notice-	{from *status} Selecting network [darkscience]. To see list of all configured networks, use /znc ListNetworks
+Jul 25 02:39:48 -Notice-	{from *status} If you want to choose another network, use /znc JumpNetwork <network>, or connect to ZNC with username ayool/<network> (instead of just ayool)
+**** ENDING LOGGING AT Sat Jul 25 02:39:48 2020
+
+**** BEGIN LOGGING AT Sat Jul 25 02:49:19 2020
+
+Jul 25 02:49:19 Checksum plugin loaded
+Jul 25 02:49:19 FiSHLiM plugin loaded
+Jul 25 02:49:19 Perl interface loaded
+Jul 25 02:49:20 Python interface loaded
+Jul 25 02:49:20 Sysinfo plugin loaded
+Jul 25 02:49:20 »»	Looking up philes.arkunico
+Jul 25 02:49:20 »»	Connecting to philes.arkunico (10.0.1.205) port 8080...
+Jul 25 02:49:20 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	* Subject: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	* Issuer: /OU=znc/CN=host.unknown/emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	* Certification info:
+Jul 25 02:49:20 *	  Subject:
+Jul 25 02:49:20 *	    OU=znc
+Jul 25 02:49:20 *	    CN=host.unknown
+Jul 25 02:49:20 *	    emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	  Issuer:
+Jul 25 02:49:20 *	    OU=znc
+Jul 25 02:49:20 *	    CN=host.unknown
+Jul 25 02:49:20 *	    emailAddress=znc@host.unknown
+Jul 25 02:49:20 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 25 02:49:20 *	  Sign algorithm sha256WithRSAEncryption
+Jul 25 02:49:20 *	  Valid since Jul 25 08:45:20 2020 GM to Jul 23 08:45:20 2030 GM
+Jul 25 02:49:20 *	* Cipher info:
+Jul 25 02:49:20 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 25 02:49:20 *	* Verify E: self signed certificate.? (18) -- Ignored
+Jul 25 02:49:20 »»	Connected. Now logging in...
+Jul 25 02:49:20 *	Capabilities supported: userhost-in-names multi-prefix znc.in/server-time-iso znc.in/batch znc.in/self-message
+Jul 25 02:49:20 *	Capabilities requested: userhost-in-names multi-prefix znc.in/server-time-iso 
+Jul 25 02:49:21 *	Capabilities acknowledged: userhost-in-names multi-prefix znc.in/server-time-iso
+**** ENDING LOGGING AT Sat Jul 25 02:49:21 2020
+

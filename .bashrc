@@ -132,7 +132,7 @@ function gitignore() {
   
   while read a; do
     D=$(dirname "$a")
-    F=$($(basename "$a") | sed 's/^#\|^ \|^!\|\*\|\?/\\&/g')
+    F=$($(basename "$a") | sed 's/^#\|^ \|^!\|\*\|\?\|\[\|\]/\\&/g')
     #rm -rf "$D/.gitignore"
     grep -sqxF "$F" "$D/.gitignore" || echo "$F" >> "$D"/.gitignore
   done < $DIFF

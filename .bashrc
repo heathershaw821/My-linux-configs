@@ -15,6 +15,8 @@ HISTFILESIZE=2000
 
 shopt -s checkwinsize
 
+shopt -s extdebug
+
 ### SHELL ESCAPES ##############################################################
 
 function esc() {
@@ -112,9 +114,7 @@ function escape_sed () {
 }
 
 function gitignore() {
-  trap 'rm -f "$TRACKED"' EXIT
-  trap 'rm -f "$FILES"' EXIT
-  trap 'rm -f "$DIFF"' EXIT
+  trap 'rm -f $TRACKED $FILES $DIFF' RETURN
   TRACKED=$(mktemp) || return -1
   FILES=$(mktemp) || return -1
   DIFF=$(mktemp) || return -1

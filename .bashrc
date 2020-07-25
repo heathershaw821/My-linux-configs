@@ -111,6 +111,33 @@ function escape_sed () {
   sed -e 's/[]\/$*.^[]/\\&/g'
 }
 
+function gitignore() {
+  trap 'rm -f "$TRACKED"' EXIT
+  trap 'rm -f "$FILES"' EXIT
+  trap 'rm -f "$DIFF"' EXIT
+  TRACKED=$(mktemp) || return -1
+  FILES=$(mktemp) || return -1
+  DIFF=$(mktemp) || return -1
+  
+  git ls-tree -r master --name-only | sed -e 's/^/.\//' > $TRACKED
+  while read a; do
+    a=$(dirname "$a")
+    if [ -f $a/.gitignore ]; then rm $a/.gitignore; fi
+    grep -sqxF "$a" $TRACKED || echo "$a" >> $TRACKED
+  done < $TRACKED
+  sort $TRACKED -o $TRACKED
+  
+  tree -f -a -i -n --noreport | sort > $FILES
+  comm -3 $FILES $TRACKED > $DIFF
+  
+  while read a; do
+    D=$(dirname "$a")
+    F=$(basename "$a")
+    #rm -rf "$D/.gitignore"
+    grep -sqxF "$F" "$D/.gitignore" || echo "$F" >> "$D"/.gitignore
+  done < $DIFF
+}
+
 ### HELPFUL ALIAS STUFF ########################################################
 
 alias ls='ls --color=auto'

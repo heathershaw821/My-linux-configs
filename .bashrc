@@ -151,6 +151,9 @@ alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
 
+# termbin, like pastebin but better
+alias termbin='nc termbin.com 9999'
+
 ### Dircolors themes and completion features ###################################
 
 if ! shopt -oq posix; then

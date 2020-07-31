@@ -7,6 +7,9 @@ case $- in
 esac
 
 ### BASH CONFIGURATION #########################################################
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
 
 shopt -s histappend
 HISTCONTROL=ignoreboth
